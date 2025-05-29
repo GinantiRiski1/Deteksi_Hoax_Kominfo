@@ -1,3 +1,3 @@
-link aplikasi : https://deteksihoaks-kominfo.streamlit.app/
+link aplikasi : https://pklstbkominfo-ginantiriski.streamlit.app/
 username : admin
 password : 123
